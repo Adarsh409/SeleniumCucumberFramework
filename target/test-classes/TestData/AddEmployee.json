@@ -1,0 +1,47 @@
+[
+  {
+    "personalDetails": {
+      "licenseExpiryDate": "2023-27-12",
+      "smoker": "y",
+      "driverLicenseNumber": "123456789",
+      "otherId": null,
+      "nationality": "Indian",
+      "gender": "Male",
+      "militaryService": null,
+      "dateOfBirth": "1998-23-05",
+      "bloodType": "B+",
+      "maritalStatus": "Single"
+    },
+    "basicDetails": {
+      "firstName": "Aurlien",
+      "lastName": "Tchoumeni",
+      "password": "Jude@1234",
+      "middleName": null,
+      "userName": "ghdfs@123"
+    },
+    "jobDetails": {
+      "jobCategory": "Technicians",
+      "subUnit": "Quality Assurance",
+      "contractStartDate": "2020-01-08",
+      "jobTitle": "QA Engineer",
+      "contractEndDate": "2023-31-12",
+      "includeEmployeeContractDetails": "y",
+      "location": "New York",
+      "employmentStatus": "Part-Time Contract",
+      "joinedDate": "2020-12-05"
+    },
+    "contactDetails": {
+      "zip": "23121",
+      "country": "India",
+      "city": "Chennai",
+      "workEmail": "pew1@test.com",
+      "work": null,
+      "mobile": "9111112222",
+      "street1": "Test Rd 01",
+      "telephone": null,
+      "street2": null,
+      "state": "TN",
+      "otherEmail": null
+    }
+  }
+]

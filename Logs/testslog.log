@@ -1,0 +1,378 @@
+[INFO ] 2024-03-10 00:22:00.925 [main] FileScanner - Loaded properties file in .//src//test//resources//config.properties
+[INFO ] 2024-03-10 00:22:00.938 [main] FileScanner - Loaded properties file in .//src//test//resources//user.properties
+[INFO ] 2024-03-10 00:22:19.053 [main] Base - Test set up completed
+[INFO ] 2024-03-10 00:22:23.412 [main] Base - Opening the application
+[INFO ] 2024-03-10 00:22:24.774 [main] Base - Login user name entered
+[INFO ] 2024-03-10 00:22:24.973 [main] Base - Login password entered
+[INFO ] 2024-03-10 00:22:26.279 [main] Base - Login button clicked
+[INFO ] 2024-03-10 00:22:29.799 [main] Base - PIM Page link clicked
+[INFO ] 2024-03-10 00:22:31.133 [main] Base - Navigated to Add Employee Page
+[INFO ] 2024-03-10 00:22:31.178 [main] FileScanner - Reading JSON Test data in .//src//test//resources//TestData//AddEmployee.jsonwith base keyemployees
+[INFO ] 2024-03-10 00:22:31.271 [main] FileScanner - JSON data stored in list
+[INFO ] 2024-03-10 00:22:31.953 [main] Base - Employee first name entered
+[INFO ] 2024-03-10 00:22:32.065 [main] Base - Employee last name entered
+[INFO ] 2024-03-10 00:22:32.124 [main] Base - Employee id saved to file
+[INFO ] 2024-03-10 00:22:32.124 [main] Base - Employee id value fetched from the field
+[INFO ] 2024-03-10 00:22:32.124 [main] Base - Employee full name entered
+[INFO ] 2024-03-10 00:22:32.228 [main] Base - Create Login checkbox clicked
+[INFO ] 2024-03-10 00:22:32.396 [main] Base - Employee user name entered
+[INFO ] 2024-03-10 00:22:32.527 [main] Base - Employee password entered
+[INFO ] 2024-03-10 00:22:32.670 [main] Base - Employee confirm password entered
+[INFO ] 2024-03-10 00:22:32.670 [main] Base - Employee Login details enetered
+[INFO ] 2024-03-10 00:22:32.757 [main] Base - Login Details save button clicked
+[INFO ] 2024-03-10 00:22:38.815 [main] Base - Employee License expiry date calendar clicked
+[INFO ] 2024-03-10 00:22:40.633 [main] Base - Date selected
+[INFO ] 2024-03-10 00:22:40.789 [main] Base - Employee Driver license number entered
+[INFO ] 2024-03-10 00:22:45.824 [main] Base - Employee Nationality entered
+[INFO ] 2024-03-10 00:22:46.124 [main] Base - Employee Marital status entered
+[INFO ] 2024-03-10 00:22:46.183 [main] Base - Employee Date of birth calendar clicked
+[INFO ] 2024-03-10 00:22:48.407 [main] Base - Date selected
+[INFO ] 2024-03-10 00:22:48.460 [main] Base - Employee Gender entered
+[INFO ] 2024-03-10 00:22:48.517 [main] Base - Employee Personal Details save button clicked
+[INFO ] 2024-03-10 00:22:48.518 [main] Base - Employee personal details saved
+[INFO ] 2024-03-10 00:22:49.520 [main] Base - Contact details link clicked
+[INFO ] 2024-03-10 00:22:59.649 [main] Base - Employee Country entered
+[INFO ] 2024-03-10 00:22:59.757 [main] Base - Employee Street Address 1 entered
+[INFO ] 2024-03-10 00:22:59.868 [main] Base - Employee City entered
+[INFO ] 2024-03-10 00:22:59.955 [main] Base - Employee State entered
+[INFO ] 2024-03-10 00:23:00.066 [main] Base - Employee Postal code entered
+[INFO ] 2024-03-10 00:23:00.187 [main] Base - Employee Mobile Phone entered
+[INFO ] 2024-03-10 00:23:00.311 [main] Base - Employee Work email entered entered
+[INFO ] 2024-03-10 00:23:00.553 [main] Base - Employee Contact Details save button clicked
+[INFO ] 2024-03-10 00:23:00.553 [main] Base - Employee contact details saved
+[INFO ] 2024-03-10 00:23:01.759 [main] Base - Job details link clicked
+[INFO ] 2024-03-10 00:23:02.337 [main] Base - Employee Joined date calendar clicked
+[INFO ] 2024-03-10 00:23:04.840 [main] Base - Date selected
+[INFO ] 2024-03-10 00:23:06.721 [main] Base - Employee Job title entered
+[INFO ] 2024-03-10 00:23:07.252 [main] Base - Employee Sub unit entered
+[INFO ] 2024-03-10 00:23:07.729 [main] Base - Employement status entered
+[INFO ] 2024-03-10 00:23:07.814 [main] Base - Include contract details option clicked
+[INFO ] 2024-03-10 00:23:07.979 [main] Base - Contract Start date calendar clicked
+[INFO ] 2024-03-10 00:23:09.642 [main] Base - Date selected
+[INFO ] 2024-03-10 00:23:09.771 [main] Base - Contract End date calendar clicked
+[INFO ] 2024-03-10 00:23:12.534 [main] Base - Date selected
+[INFO ] 2024-03-10 00:23:12.621 [main] Base - Job details save button clicked
+[INFO ] 2024-03-10 00:23:12.621 [main] Base - Employee job details saved
+[INFO ] 2024-03-10 00:23:13.364 [main] Base - Navigated to Employee Search page
+[INFO ] 2024-03-10 00:23:14.020 [main] Base - Employee Id entered
+[INFO ] 2024-03-10 00:23:14.092 [main] Base - Employee Search button clicked
+[INFO ] 2024-03-10 00:23:14.970 [main] Base - Employee Records fetched
+[INFO ] 2024-03-10 00:23:15.732 [main] Base - Browser closed
+[INFO ] 2024-03-10 00:23:15.788 [main] FileScanner - Loaded properties file in .//src//test//resources//config.properties
+[INFO ] 2024-03-10 00:23:15.798 [main] FileScanner - Loaded properties file in .//src//test//resources//user.properties
+[INFO ] 2024-03-10 00:23:18.573 [main] Base - Test set up completed
+[INFO ] 2024-03-10 00:23:22.177 [main] Base - Opening the application
+[INFO ] 2024-03-10 00:23:22.835 [main] Base - Login user name entered
+[INFO ] 2024-03-10 00:23:22.995 [main] Base - Login password entered
+[INFO ] 2024-03-10 00:23:24.235 [main] Base - Login button clicked
+[INFO ] 2024-03-10 00:23:25.993 [main] Base - PIM Page link clicked
+[INFO ] 2024-03-10 00:23:27.242 [main] Base - Navigated to Add Employee Page
+[INFO ] 2024-03-10 00:23:27.881 [main] Base - Employee first name entered
+[INFO ] 2024-03-10 00:23:28.000 [main] Base - Employee last name entered
+[INFO ] 2024-03-10 00:23:28.074 [main] Base - Employee id saved to file
+[INFO ] 2024-03-10 00:23:28.074 [main] Base - Employee id value fetched from the field
+[INFO ] 2024-03-10 00:23:28.139 [main] Base - Login Details save button clicked
+[INFO ] 2024-03-10 00:23:33.105 [main] Base - Employee Personal Details save button clicked
+[INFO ] 2024-03-10 00:23:34.233 [main] Base - Job details link clicked
+[INFO ] 2024-03-10 00:23:35.998 [main] Base - Employement status entered
+[INFO ] 2024-03-10 00:23:37.520 [main] Base - Employee Job title entered
+[INFO ] 2024-03-10 00:23:38.292 [main] Base - Employee Sub unit entered
+[INFO ] 2024-03-10 00:23:38.361 [main] Base - Employee Name saved to file
+[INFO ] 2024-03-10 00:23:38.466 [main] Base - Job details save button clicked
+[INFO ] 2024-03-10 00:23:38.466 [main] Base - Employee Record created
+[INFO ] 2024-03-10 00:23:39.975 [main] Base - User logged out
+[INFO ] 2024-03-10 00:23:40.414 [main] Base - Opening the application
+[INFO ] 2024-03-10 00:23:41.029 [main] Base - Login user name entered
+[INFO ] 2024-03-10 00:23:41.153 [main] Base - Login password entered
+[INFO ] 2024-03-10 00:23:41.224 [main] Base - Login button clicked
+[INFO ] 2024-03-10 00:23:44.155 [main] Base - Leave Page link clicked
+[INFO ] 2024-03-10 00:23:45.459 [main] Base - Navigated to Assign Leave page
+[INFO ] 2024-03-10 00:23:48.068 [main] Base - Employee name entered
+[INFO ] 2024-03-10 00:23:48.941 [main] Base - Leave type entered
+[INFO ] 2024-03-10 00:23:49.009 [main] Base - Leave From Date clicked
+[INFO ] 2024-03-10 00:23:51.650 [main] Base - Date selected
+[INFO ] 2024-03-10 00:23:51.766 [main] Base - Leave To Date clicked
+[INFO ] 2024-03-10 00:23:53.926 [main] Base - Date selected
+[INFO ] 2024-03-10 00:23:54.059 [main] Base - Leave comments entered
+[INFO ] 2024-03-10 00:23:54.136 [main] Base - Leave submit button clicked
+[INFO ] 2024-03-10 00:23:55.286 [main] Base - Leave confirm button clicked
+[INFO ] 2024-03-10 00:23:55.842 [main] Base - Navigated to Leave Search Page
+[INFO ] 2024-03-10 00:24:00.362 [main] Base - Leave type entered
+[INFO ] 2024-03-10 00:24:00.827 [main] Base - Leave status entered
+[INFO ] 2024-03-10 00:24:00.912 [main] Base - Leave Search button clicked
+[INFO ] 2024-03-10 00:24:00.914 [main] Base - Checking Leave records
+[INFO ] 2024-03-10 00:24:22.206 [main] Base - Browser closed
+[INFO ] 2024-03-10 00:24:22.306 [main] FileScanner - Loaded properties file in .//src//test//resources//config.properties
+[INFO ] 2024-03-10 00:24:22.314 [main] FileScanner - Loaded properties file in .//src//test//resources//user.properties
+[INFO ] 2024-03-10 00:24:23.965 [main] Base - Test set up completed
+[INFO ] 2024-03-10 00:24:28.444 [main] Base - Opening the application
+[INFO ] 2024-03-10 00:24:29.137 [main] Base - Login user name entered
+[INFO ] 2024-03-10 00:24:29.273 [main] Base - Login password entered
+[INFO ] 2024-03-10 00:24:29.380 [main] Base - Login button clicked
+[INFO ] 2024-03-10 00:24:30.504 [main] Base - Login page url fetched
+[INFO ] 2024-03-10 00:24:30.876 [main] Base - Browser closed
+[INFO ] 2024-03-10 00:24:30.883 [main] FileScanner - Loaded properties file in .//src//test//resources//config.properties
+[INFO ] 2024-03-10 00:24:30.884 [main] FileScanner - Loaded properties file in .//src//test//resources//user.properties
+[INFO ] 2024-03-10 00:24:32.145 [main] Base - Test set up completed
+[INFO ] 2024-03-10 00:24:35.185 [main] Base - Opening the application
+[INFO ] 2024-03-10 00:24:35.814 [main] Base - Login user name entered
+[INFO ] 2024-03-10 00:24:35.968 [main] Base - Login password entered
+[INFO ] 2024-03-10 00:24:36.060 [main] Base - Login button clicked
+[INFO ] 2024-03-10 00:24:37.354 [main] Base - Browser closed
+[INFO ] 2024-03-10 00:24:37.369 [main] FileScanner - Loaded properties file in .//src//test//resources//config.properties
+[INFO ] 2024-03-10 00:24:37.370 [main] FileScanner - Loaded properties file in .//src//test//resources//user.properties
+[INFO ] 2024-03-10 00:24:38.701 [main] Base - Test set up completed
+[INFO ] 2024-03-10 00:24:41.887 [main] Base - Opening the application
+[INFO ] 2024-03-10 00:24:42.522 [main] Base - Login user name entered
+[INFO ] 2024-03-10 00:24:42.656 [main] Base - Login password entered
+[INFO ] 2024-03-10 00:24:42.765 [main] Base - Login button clicked
+[INFO ] 2024-03-10 00:24:43.951 [main] Base - Browser closed
+[INFO ] 2024-03-10 00:24:43.959 [main] FileScanner - Loaded properties file in .//src//test//resources//config.properties
+[INFO ] 2024-03-10 00:24:43.959 [main] FileScanner - Loaded properties file in .//src//test//resources//user.properties
+[INFO ] 2024-03-10 00:24:45.347 [main] Base - Test set up completed
+[INFO ] 2024-03-10 00:24:48.751 [main] Base - Opening the application
+[INFO ] 2024-03-10 00:24:49.374 [main] Base - Login user name entered
+[INFO ] 2024-03-10 00:24:49.502 [main] Base - Login password entered
+[INFO ] 2024-03-10 00:24:49.593 [main] Base - Login button clicked
+[INFO ] 2024-03-10 00:24:50.692 [main] Base - Browser closed
+[INFO ] 2024-03-10 00:34:47.883 [main] FileScanner - Loaded properties file in .//src//test//resources//config.properties
+[INFO ] 2024-03-10 00:34:47.887 [main] FileScanner - Loaded properties file in .//src//test//resources//user.properties
+[INFO ] 2024-03-10 00:35:12.160 [main] Base - Test set up completed
+[INFO ] 2024-03-10 00:35:15.231 [main] LoginPage - Opening the application
+[INFO ] 2024-03-10 00:35:15.965 [main] LoginPage - Login user name entered
+[INFO ] 2024-03-10 00:35:16.110 [main] LoginPage - Login password entered
+[INFO ] 2024-03-10 00:35:17.520 [main] LoginPage - Login button clicked
+[INFO ] 2024-03-10 00:35:23.044 [main] HomePage - PIM Page link clicked
+[INFO ] 2024-03-10 00:35:25.553 [main] EmployeeSearchPage - Navigated to Add Employee Page
+[INFO ] 2024-03-10 00:35:25.556 [main] FileScanner - Reading JSON Test data in .//src//test//resources//TestData//AddEmployee.jsonwith base keyemployees
+[INFO ] 2024-03-10 00:35:25.637 [main] FileScanner - JSON data stored in list
+[INFO ] 2024-03-10 00:35:26.276 [main] AddEmployeePage - Employee first name entered
+[INFO ] 2024-03-10 00:35:26.719 [main] AddEmployeePage - Employee last name entered
+[INFO ] 2024-03-10 00:35:27.025 [main] AddEmployeePage - Employee id saved to file
+[INFO ] 2024-03-10 00:35:27.026 [main] AddEmployeePage - Employee id value fetched from the field
+[INFO ] 2024-03-10 00:35:27.027 [main] AddEmployeePage - Employee full name entered
+[INFO ] 2024-03-10 00:35:27.175 [main] AddEmployeePage - Create Login checkbox clicked
+[INFO ] 2024-03-10 00:35:27.304 [main] AddEmployeePage - Employee user name entered
+[INFO ] 2024-03-10 00:35:27.433 [main] AddEmployeePage - Employee password entered
+[INFO ] 2024-03-10 00:35:27.577 [main] AddEmployeePage - Employee confirm password entered
+[INFO ] 2024-03-10 00:35:27.578 [main] AddEmployeePage - Employee Login details enetered
+[INFO ] 2024-03-10 00:35:27.786 [main] AddEmployeePage - Login Details save button clicked
+[INFO ] 2024-03-10 00:35:33.865 [main] AddEmployeePage - Employee License expiry date calendar clicked
+[INFO ] 2024-03-10 00:35:35.383 [main] AddEmployeePage - Date selected
+[INFO ] 2024-03-10 00:35:35.545 [main] AddEmployeePage - Employee Driver license number entered
+[INFO ] 2024-03-10 00:35:41.165 [main] AddEmployeePage - Employee Nationality entered
+[INFO ] 2024-03-10 00:35:41.447 [main] AddEmployeePage - Employee Marital status entered
+[INFO ] 2024-03-10 00:35:41.518 [main] AddEmployeePage - Employee Date of birth calendar clicked
+[INFO ] 2024-03-10 00:35:43.376 [main] AddEmployeePage - Date selected
+[INFO ] 2024-03-10 00:35:43.443 [main] AddEmployeePage - Employee Gender entered
+[INFO ] 2024-03-10 00:35:43.512 [main] AddEmployeePage - Employee Personal Details save button clicked
+[INFO ] 2024-03-10 00:35:43.512 [main] AddEmployeePage - Employee personal details saved
+[INFO ] 2024-03-10 00:35:44.532 [main] AddEmployeePage - Contact details link clicked
+[INFO ] 2024-03-10 00:35:53.827 [main] AddEmployeePage - Employee Country entered
+[INFO ] 2024-03-10 00:35:53.940 [main] AddEmployeePage - Employee Street Address 1 entered
+[INFO ] 2024-03-10 00:35:54.045 [main] AddEmployeePage - Employee City entered
+[INFO ] 2024-03-10 00:35:54.142 [main] AddEmployeePage - Employee State entered
+[INFO ] 2024-03-10 00:35:54.243 [main] AddEmployeePage - Employee Postal code entered
+[INFO ] 2024-03-10 00:35:54.356 [main] AddEmployeePage - Employee Mobile Phone entered
+[INFO ] 2024-03-10 00:35:54.470 [main] AddEmployeePage - Employee Work email entered entered
+[INFO ] 2024-03-10 00:35:54.659 [main] AddEmployeePage - Employee Contact Details save button clicked
+[INFO ] 2024-03-10 00:35:54.660 [main] AddEmployeePage - Employee contact details saved
+[INFO ] 2024-03-10 00:35:55.637 [main] AddEmployeePage - Job details link clicked
+[INFO ] 2024-03-10 00:35:56.242 [main] AddEmployeePage - Employee Joined date calendar clicked
+[INFO ] 2024-03-10 00:35:58.220 [main] AddEmployeePage - Date selected
+[INFO ] 2024-03-10 00:35:59.846 [main] AddEmployeePage - Employee Job title entered
+[INFO ] 2024-03-10 00:36:00.379 [main] AddEmployeePage - Employee Sub unit entered
+[INFO ] 2024-03-10 00:36:00.852 [main] AddEmployeePage - Employement status entered
+[INFO ] 2024-03-10 00:36:00.928 [main] AddEmployeePage - Include contract details option clicked
+[INFO ] 2024-03-10 00:36:01.083 [main] AddEmployeePage - Contract Start date calendar clicked
+[INFO ] 2024-03-10 00:36:02.778 [main] AddEmployeePage - Date selected
+[INFO ] 2024-03-10 00:36:02.883 [main] AddEmployeePage - Contract End date calendar clicked
+[INFO ] 2024-03-10 00:36:05.118 [main] AddEmployeePage - Date selected
+[INFO ] 2024-03-10 00:36:05.218 [main] AddEmployeePage - Job details save button clicked
+[INFO ] 2024-03-10 00:36:05.219 [main] AddEmployeePage - Employee job details saved
+[INFO ] 2024-03-10 00:36:05.893 [main] AddEmployeePage - Navigated to Employee Search page
+[INFO ] 2024-03-10 00:36:06.569 [main] EmployeeSearchPage - Employee Id entered
+[INFO ] 2024-03-10 00:36:06.657 [main] EmployeeSearchPage - Employee Search button clicked
+[INFO ] 2024-03-10 00:36:08.099 [main] EmployeeSearchPage - Employee Records fetched
+[INFO ] 2024-03-10 00:36:08.758 [main] Base - Browser closed
+[INFO ] 2024-03-10 00:36:08.809 [main] FileScanner - Loaded properties file in .//src//test//resources//config.properties
+[INFO ] 2024-03-10 00:36:08.816 [main] FileScanner - Loaded properties file in .//src//test//resources//user.properties
+[INFO ] 2024-03-10 00:36:12.677 [main] Base - Test set up completed
+[INFO ] 2024-03-10 00:36:15.688 [main] LoginPage - Opening the application
+[INFO ] 2024-03-10 00:36:16.345 [main] LoginPage - Login user name entered
+[INFO ] 2024-03-10 00:36:16.497 [main] LoginPage - Login password entered
+[INFO ] 2024-03-10 00:36:17.751 [main] LoginPage - Login button clicked
+[INFO ] 2024-03-10 00:36:19.495 [main] HomePage - PIM Page link clicked
+[INFO ] 2024-03-10 00:36:20.852 [main] EmployeeSearchPage - Navigated to Add Employee Page
+[INFO ] 2024-03-10 00:36:21.530 [main] AddEmployeePage - Employee first name entered
+[INFO ] 2024-03-10 00:36:21.629 [main] AddEmployeePage - Employee last name entered
+[INFO ] 2024-03-10 00:36:21.683 [main] AddEmployeePage - Employee id saved to file
+[INFO ] 2024-03-10 00:36:21.683 [main] AddEmployeePage - Employee id value fetched from the field
+[INFO ] 2024-03-10 00:36:21.754 [main] AddEmployeePage - Login Details save button clicked
+[INFO ] 2024-03-10 00:36:26.955 [main] AddEmployeePage - Employee Personal Details save button clicked
+[INFO ] 2024-03-10 00:36:27.823 [main] AddEmployeePage - Job details link clicked
+[INFO ] 2024-03-10 00:36:29.659 [main] AddEmployeePage - Employement status entered
+[INFO ] 2024-03-10 00:36:31.634 [main] AddEmployeePage - Employee Job title entered
+[INFO ] 2024-03-10 00:36:32.208 [main] AddEmployeePage - Employee Sub unit entered
+[INFO ] 2024-03-10 00:36:32.320 [main] AddEmployeePage - Employee Name saved to file
+[INFO ] 2024-03-10 00:36:32.437 [main] AddEmployeePage - Job details save button clicked
+[INFO ] 2024-03-10 00:36:32.437 [main] AddEmployeePage - Employee Record created
+[INFO ] 2024-03-10 00:36:34.097 [main] AddEmployeePage - User logged out
+[INFO ] 2024-03-10 00:36:34.566 [main] LoginPage - Opening the application
+[INFO ] 2024-03-10 00:36:35.221 [main] LoginPage - Login user name entered
+[INFO ] 2024-03-10 00:36:35.324 [main] LoginPage - Login password entered
+[INFO ] 2024-03-10 00:36:35.396 [main] LoginPage - Login button clicked
+[INFO ] 2024-03-10 00:36:38.344 [main] HomePage - Leave Page link clicked
+[INFO ] 2024-03-10 00:36:39.797 [main] LeaveSearchPage - Navigated to Assign Leave page
+[INFO ] 2024-03-10 00:36:42.242 [main] AssignLeavePage - Employee name entered
+[INFO ] 2024-03-10 00:36:43.117 [main] AssignLeavePage - Leave type entered
+[INFO ] 2024-03-10 00:36:43.180 [main] AssignLeavePage - Leave From Date clicked
+[INFO ] 2024-03-10 00:36:45.076 [main] AssignLeavePage - Date selected
+[INFO ] 2024-03-10 00:36:45.188 [main] AssignLeavePage - Leave To Date clicked
+[INFO ] 2024-03-10 00:36:47.037 [main] AssignLeavePage - Date selected
+[INFO ] 2024-03-10 00:36:47.200 [main] AssignLeavePage - Leave comments entered
+[INFO ] 2024-03-10 00:36:47.285 [main] AssignLeavePage - Leave submit button clicked
+[INFO ] 2024-03-10 00:36:47.892 [main] AssignLeavePage - Leave confirm button clicked
+[INFO ] 2024-03-10 00:36:48.647 [main] AssignLeavePage - Navigated to Leave Search Page
+[INFO ] 2024-03-10 00:36:53.049 [main] LeaveSearchPage - Leave type entered
+[INFO ] 2024-03-10 00:36:53.536 [main] LeaveSearchPage - Leave status entered
+[INFO ] 2024-03-10 00:36:53.624 [main] LeaveSearchPage - Leave Search button clicked
+[INFO ] 2024-03-10 00:36:53.626 [main] LeaveSearchPage - Checking Leave records
+[INFO ] 2024-03-10 00:39:41.179 [main] FileScanner - Loaded properties file in .//src//test//resources//config.properties
+[INFO ] 2024-03-10 00:39:41.183 [main] FileScanner - Loaded properties file in .//src//test//resources//user.properties
+[INFO ] 2024-03-10 00:39:43.967 [main] Base - Test set up completed
+[INFO ] 2024-03-10 00:39:48.512 [main] LoginPage - Opening the application
+[INFO ] 2024-03-10 00:39:49.254 [main] LoginPage - Login user name entered
+[INFO ] 2024-03-10 00:39:49.410 [main] LoginPage - Login password entered
+[INFO ] 2024-03-10 00:39:50.620 [main] LoginPage - Login button clicked
+[INFO ] 2024-03-10 00:39:52.517 [main] HomePage - PIM Page link clicked
+[INFO ] 2024-03-10 00:39:53.857 [main] EmployeeSearchPage - Navigated to Add Employee Page
+[INFO ] 2024-03-10 00:39:53.861 [main] FileScanner - Reading JSON Test data in .//src//test//resources//TestData//AddEmployee.jsonwith base keyemployees
+[INFO ] 2024-03-10 00:39:53.871 [main] FileScanner - JSON data stored in list
+[INFO ] 2024-03-10 00:39:54.529 [main] AddEmployeePage - Employee first name entered
+[INFO ] 2024-03-10 00:39:54.661 [main] AddEmployeePage - Employee last name entered
+[INFO ] 2024-03-10 00:39:54.728 [main] AddEmployeePage - Employee id saved to file
+[INFO ] 2024-03-10 00:39:54.728 [main] AddEmployeePage - Employee id value fetched from the field
+[INFO ] 2024-03-10 00:39:54.728 [main] AddEmployeePage - Employee full name entered
+[INFO ] 2024-03-10 00:39:54.831 [main] AddEmployeePage - Create Login checkbox clicked
+[INFO ] 2024-03-10 00:39:54.959 [main] AddEmployeePage - Employee user name entered
+[INFO ] 2024-03-10 00:39:55.067 [main] AddEmployeePage - Employee password entered
+[INFO ] 2024-03-10 00:39:55.186 [main] AddEmployeePage - Employee confirm password entered
+[INFO ] 2024-03-10 00:39:55.186 [main] AddEmployeePage - Employee Login details enetered
+[INFO ] 2024-03-10 00:39:55.261 [main] AddEmployeePage - Login Details save button clicked
+[INFO ] 2024-03-10 00:40:01.337 [main] AddEmployeePage - Employee License expiry date calendar clicked
+[INFO ] 2024-03-10 00:40:03.099 [main] AddEmployeePage - Date selected
+[INFO ] 2024-03-10 00:40:03.225 [main] AddEmployeePage - Employee Driver license number entered
+[INFO ] 2024-03-10 00:40:07.846 [main] AddEmployeePage - Employee Nationality entered
+[INFO ] 2024-03-10 00:40:08.097 [main] AddEmployeePage - Employee Marital status entered
+[INFO ] 2024-03-10 00:40:08.146 [main] AddEmployeePage - Employee Date of birth calendar clicked
+[INFO ] 2024-03-10 00:40:10.058 [main] AddEmployeePage - Date selected
+[INFO ] 2024-03-10 00:40:10.105 [main] AddEmployeePage - Employee Gender entered
+[INFO ] 2024-03-10 00:40:10.176 [main] AddEmployeePage - Employee Personal Details save button clicked
+[INFO ] 2024-03-10 00:40:10.176 [main] AddEmployeePage - Employee personal details saved
+[INFO ] 2024-03-10 00:40:11.478 [main] AddEmployeePage - Contact details link clicked
+[INFO ] 2024-03-10 00:40:21.029 [main] AddEmployeePage - Employee Country entered
+[INFO ] 2024-03-10 00:40:21.139 [main] AddEmployeePage - Employee Street Address 1 entered
+[INFO ] 2024-03-10 00:40:21.241 [main] AddEmployeePage - Employee City entered
+[INFO ] 2024-03-10 00:40:21.330 [main] AddEmployeePage - Employee State entered
+[INFO ] 2024-03-10 00:40:21.424 [main] AddEmployeePage - Employee Postal code entered
+[INFO ] 2024-03-10 00:40:21.532 [main] AddEmployeePage - Employee Mobile Phone entered
+[INFO ] 2024-03-10 00:40:21.650 [main] AddEmployeePage - Employee Work email entered entered
+[INFO ] 2024-03-10 00:40:21.749 [main] AddEmployeePage - Employee Contact Details save button clicked
+[INFO ] 2024-03-10 00:40:21.750 [main] AddEmployeePage - Employee contact details saved
+[INFO ] 2024-03-10 00:40:22.820 [main] AddEmployeePage - Job details link clicked
+[INFO ] 2024-03-10 00:40:23.432 [main] AddEmployeePage - Employee Joined date calendar clicked
+[INFO ] 2024-03-10 00:40:25.535 [main] AddEmployeePage - Date selected
+[INFO ] 2024-03-10 00:40:27.470 [main] AddEmployeePage - Employee Job title entered
+[INFO ] 2024-03-10 00:40:28.095 [main] AddEmployeePage - Employee Sub unit entered
+[INFO ] 2024-03-10 00:40:28.615 [main] AddEmployeePage - Employement status entered
+[INFO ] 2024-03-10 00:40:28.748 [main] AddEmployeePage - Include contract details option clicked
+[INFO ] 2024-03-10 00:40:28.860 [main] AddEmployeePage - Contract Start date calendar clicked
+[INFO ] 2024-03-10 00:40:30.517 [main] AddEmployeePage - Date selected
+[INFO ] 2024-03-10 00:40:30.622 [main] AddEmployeePage - Contract End date calendar clicked
+[INFO ] 2024-03-10 00:40:32.474 [main] AddEmployeePage - Date selected
+[INFO ] 2024-03-10 00:40:32.560 [main] AddEmployeePage - Job details save button clicked
+[INFO ] 2024-03-10 00:40:32.560 [main] AddEmployeePage - Employee job details saved
+[INFO ] 2024-03-10 00:40:33.168 [main] AddEmployeePage - Navigated to Employee Search page
+[INFO ] 2024-03-10 00:40:33.843 [main] EmployeeSearchPage - Employee Id entered
+[INFO ] 2024-03-10 00:40:33.925 [main] EmployeeSearchPage - Employee Search button clicked
+[INFO ] 2024-03-10 00:40:34.867 [main] EmployeeSearchPage - Employee Records fetched
+[INFO ] 2024-03-10 00:40:35.195 [main] Base - Browser closed
+[INFO ] 2024-03-10 00:40:35.221 [main] FileScanner - Loaded properties file in .//src//test//resources//config.properties
+[INFO ] 2024-03-10 00:40:35.230 [main] FileScanner - Loaded properties file in .//src//test//resources//user.properties
+[INFO ] 2024-03-10 00:40:36.772 [main] Base - Test set up completed
+[INFO ] 2024-03-10 00:40:41.792 [main] LoginPage - Opening the application
+[INFO ] 2024-03-10 00:40:42.431 [main] LoginPage - Login user name entered
+[INFO ] 2024-03-10 00:40:42.566 [main] LoginPage - Login password entered
+[INFO ] 2024-03-10 00:40:43.858 [main] LoginPage - Login button clicked
+[INFO ] 2024-03-10 00:40:45.585 [main] HomePage - PIM Page link clicked
+[INFO ] 2024-03-10 00:40:47.062 [main] EmployeeSearchPage - Navigated to Add Employee Page
+[INFO ] 2024-03-10 00:40:47.722 [main] AddEmployeePage - Employee first name entered
+[INFO ] 2024-03-10 00:40:47.842 [main] AddEmployeePage - Employee last name entered
+[INFO ] 2024-03-10 00:40:47.893 [main] AddEmployeePage - Employee id saved to file
+[INFO ] 2024-03-10 00:40:47.893 [main] AddEmployeePage - Employee id value fetched from the field
+[INFO ] 2024-03-10 00:40:47.959 [main] AddEmployeePage - Login Details save button clicked
+[INFO ] 2024-03-10 00:40:53.253 [main] AddEmployeePage - Employee Personal Details save button clicked
+[INFO ] 2024-03-10 00:40:54.413 [main] AddEmployeePage - Job details link clicked
+[INFO ] 2024-03-10 00:40:56.088 [main] AddEmployeePage - Employement status entered
+[INFO ] 2024-03-10 00:40:58.339 [main] AddEmployeePage - Employee Job title entered
+[INFO ] 2024-03-10 00:40:59.129 [main] AddEmployeePage - Employee Sub unit entered
+[INFO ] 2024-03-10 00:40:59.185 [main] AddEmployeePage - Employee Name saved to file
+[INFO ] 2024-03-10 00:40:59.273 [main] AddEmployeePage - Job details save button clicked
+[INFO ] 2024-03-10 00:40:59.273 [main] AddEmployeePage - Employee Record created
+[INFO ] 2024-03-10 00:41:00.818 [main] AddEmployeePage - User logged out
+[INFO ] 2024-03-10 00:41:01.246 [main] LoginPage - Opening the application
+[INFO ] 2024-03-10 00:41:01.888 [main] LoginPage - Login user name entered
+[INFO ] 2024-03-10 00:41:01.982 [main] LoginPage - Login password entered
+[INFO ] 2024-03-10 00:41:02.039 [main] LoginPage - Login button clicked
+[INFO ] 2024-03-10 00:41:05.147 [main] HomePage - Leave Page link clicked
+[INFO ] 2024-03-10 00:41:06.515 [main] LeaveSearchPage - Navigated to Assign Leave page
+[INFO ] 2024-03-10 00:41:08.895 [main] AssignLeavePage - Employee name entered
+[INFO ] 2024-03-10 00:41:09.713 [main] AssignLeavePage - Leave type entered
+[INFO ] 2024-03-10 00:41:09.767 [main] AssignLeavePage - Leave From Date clicked
+[INFO ] 2024-03-10 00:41:11.363 [main] AssignLeavePage - Date selected
+[INFO ] 2024-03-10 00:41:11.478 [main] AssignLeavePage - Leave To Date clicked
+[INFO ] 2024-03-10 00:41:13.642 [main] AssignLeavePage - Date selected
+[INFO ] 2024-03-10 00:41:13.774 [main] AssignLeavePage - Leave comments entered
+[INFO ] 2024-03-10 00:41:13.856 [main] AssignLeavePage - Leave submit button clicked
+[INFO ] 2024-03-10 00:41:15.001 [main] AssignLeavePage - Leave confirm button clicked
+[INFO ] 2024-03-10 00:41:15.860 [main] AssignLeavePage - Navigated to Leave Search Page
+[INFO ] 2024-03-10 00:41:20.202 [main] LeaveSearchPage - Leave type entered
+[INFO ] 2024-03-10 00:41:20.659 [main] LeaveSearchPage - Leave status entered
+[INFO ] 2024-03-10 00:41:20.743 [main] LeaveSearchPage - Leave Search button clicked
+[INFO ] 2024-03-10 00:41:20.744 [main] LeaveSearchPage - Checking Leave records
+[INFO ] 2024-03-10 00:41:22.227 [main] LeaveSearchPage - Leave record found
+[INFO ] 2024-03-10 00:41:22.524 [main] Base - Browser closed
+[INFO ] 2024-03-10 00:41:22.581 [main] FileScanner - Loaded properties file in .//src//test//resources//config.properties
+[INFO ] 2024-03-10 00:41:22.591 [main] FileScanner - Loaded properties file in .//src//test//resources//user.properties
+[INFO ] 2024-03-10 00:41:23.755 [main] Base - Test set up completed
+[INFO ] 2024-03-10 00:41:27.645 [main] LoginPage - Opening the application
+[INFO ] 2024-03-10 00:41:28.263 [main] LoginPage - Login user name entered
+[INFO ] 2024-03-10 00:41:28.396 [main] LoginPage - Login password entered
+[INFO ] 2024-03-10 00:41:28.510 [main] LoginPage - Login button clicked
+[INFO ] 2024-03-10 00:41:29.871 [main] LoginPage - Login page url fetched
+[INFO ] 2024-03-10 00:41:30.134 [main] Base - Browser closed
+[INFO ] 2024-03-10 00:41:30.142 [main] FileScanner - Loaded properties file in .//src//test//resources//config.properties
+[INFO ] 2024-03-10 00:41:30.142 [main] FileScanner - Loaded properties file in .//src//test//resources//user.properties
+[INFO ] 2024-03-10 00:41:31.374 [main] Base - Test set up completed
+[INFO ] 2024-03-10 00:41:34.485 [main] LoginPage - Opening the application
+[INFO ] 2024-03-10 00:41:35.142 [main] LoginPage - Login user name entered
+[INFO ] 2024-03-10 00:41:35.258 [main] LoginPage - Login password entered
+[INFO ] 2024-03-10 00:41:36.452 [main] LoginPage - Login button clicked
+[INFO ] 2024-03-10 00:41:36.726 [main] Base - Browser closed
+[INFO ] 2024-03-10 00:41:36.743 [main] FileScanner - Loaded properties file in .//src//test//resources//config.properties
+[INFO ] 2024-03-10 00:41:36.743 [main] FileScanner - Loaded properties file in .//src//test//resources//user.properties
+[INFO ] 2024-03-10 00:41:37.939 [main] Base - Test set up completed
+[INFO ] 2024-03-10 00:41:41.749 [main] LoginPage - Opening the application
+[INFO ] 2024-03-10 00:41:42.362 [main] LoginPage - Login user name entered
+[INFO ] 2024-03-10 00:41:42.483 [main] LoginPage - Login password entered
+[INFO ] 2024-03-10 00:41:42.578 [main] LoginPage - Login button clicked
+[INFO ] 2024-03-10 00:41:43.651 [main] Base - Browser closed
+[INFO ] 2024-03-10 00:41:43.666 [main] FileScanner - Loaded properties file in .//src//test//resources//config.properties
+[INFO ] 2024-03-10 00:41:43.666 [main] FileScanner - Loaded properties file in .//src//test//resources//user.properties
+[INFO ] 2024-03-10 00:41:45.059 [main] Base - Test set up completed
+[INFO ] 2024-03-10 00:41:53.206 [main] LoginPage - Opening the application
+[INFO ] 2024-03-10 00:41:53.882 [main] LoginPage - Login user name entered
+[INFO ] 2024-03-10 00:41:54.020 [main] LoginPage - Login password entered
+[INFO ] 2024-03-10 00:41:54.910 [main] LoginPage - Login button clicked
+[INFO ] 2024-03-10 00:41:55.171 [main] Base - Browser closed
